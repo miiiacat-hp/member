@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/*メンバー一覧
+----------------------------------------------*/
+#th1, #th2, #th3, #th4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:3px;
+    margin-bottom: 50px;
+}
+#th1 p, #th2 p, #th3 p, #th4 p{
+    padding-top: 20px;
+    color: #432;
+}
+#th1 a:hover, #th2 a:hover, #th3 a:hover, #th4 a:hover{
+    background-color: rgb(231, 230, 230);
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
+}
+
+.member {
+    /*border-width: thin;
+    border-style: solid;*/
+    margin:3px;
+    padding:15px;
+    line-height: 0.5;
+    text-align: center;
+}
+.mem_img{
+    width: 100px;
+    height: 100px;
+}
+.dai{
+    padding: 5px 20px;
+    border-bottom: 2px rgb(232, 193, 38) solid;
+}
+.page_tytle{
+    padding-top: 40px;
+    color:rgb(255, 253, 164);
+    text-shadow: 1px 2px 3px #808080;
+    font-family: "Sawarabi Mincho";
+    font-size: large;
+}
