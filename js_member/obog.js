@@ -37,7 +37,7 @@ function member_list(dai){
             break;
     }
     for(let item of pass) {
-            img = <img class="mem_img" src="images_intro/${shozoku}/${item}.JPG"><p>${name[j]}</p>
+            img = `<img class="mem_img" src="images_intro/${shozoku}/${item}.JPG"><p>${name[j]}</p>`;
         document.getElementById(shozoku).insertAdjacentHTML('beforeend',img);
         j += 1;
     }
