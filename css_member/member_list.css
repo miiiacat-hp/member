@@ -1,0 +1,17 @@
+@charset "UTF-8";
+div.introduce{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+div.member {
+    background: #0bd;
+    margin:10px;
+    padding:10px;
+    line-height: 0.5;
+    text-align: center;
+}
+.mem_img{
+    width: 150px;
+    height: 150px;
+}

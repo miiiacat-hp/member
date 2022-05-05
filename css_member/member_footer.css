@@ -1,0 +1,6 @@
+@charset "UTF-8";
+footer{
+    color: yellow;
+    background-color: rgb(3, 3, 66);
+    padding: 26px 20px;
+}
