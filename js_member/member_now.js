@@ -28,10 +28,16 @@ function member_list(dai){
             num = 21;
             break;
         case 4:
-            pass = ['itarii','eme','ousama','ohana','oranju','kyameron','komati','shounagon','jack','soa','tya-ri-','teika','toxuri','towako','paitan','hisui','puteo','bejiyuki','pomumin','mani-','mamirin','marin','mimi','memehan','yo-guru','rimo-ne'];
-            name = ['ぃたりい','えめ','おうさま','オハナ','おらんジュ','キャメロン','こまち','少納言','ジャック','そあ','チャーリー','ていか。','トゥリ','とわこ','ぱいたん','ひすい','ぷて男','べじゆき','ぽむみん','まにー','まみりん','まりん','みみ','めめはん','よーぐる','りもーね',];
+            pass = ['itari','in','eme','ousama','ohana','oranju','kyameron','komati','shounagon','jack','soa','suichan','sebasu','tya-ri-','teika','toluri','towako','paitan','hisui','puteo','bejiyuki','pomumin','mani-','mamirin','marin','mimi','memehan','yo-guru','rimo-ne'];
+            name = ['ぃたりい','院','えめ','おうさま','オハナ','おらんジュ','キャメロン','こまち','少納言','ジャック','すいちゃん','セバス','そあ','チャーリー','ていか。','トゥリ','とわこ','ぱいたん','ひすい','ぷて男','べじゆき','ぽむみん','まにー','まみりん','まりん','みみ','めめはん','よーぐる','りもーね',];
             shozoku = 'th4';
-	    num = 27;
+	    num = 30;
+	    break;
+    	case 5:
+            pass = ['ana','usaramu','eden','koloria','takashi','tamagon','tekku','haku','merani-','rinrin','ru-buru'];
+            name = ['あな','うさらむ','エデン','こぉりあ','たかし','たまごん','てっく','白','メラニー','りんりん','るーぶる'];
+            shozoku = 'th4';
+	    num = 11;
 	    break;
         default:
             memb = [];
