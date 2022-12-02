@@ -36,7 +36,7 @@ function member_list(dai){
     	case 5:
             pass = ['ana','usaramu','eden','koloria','takashi','tamagon','tekku','haku','merani-','rinrin','ru-buru'];
             name = ['あな','うさらむ','エデン','こぉりあ','たかし','たまごん','てっく','白','メラニー','りんりん','るーぶる'];
-            shozoku = 'th4';
+            shozoku = 'th5';
 	    num = 11;
 	    break;
         default:
