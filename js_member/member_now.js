@@ -40,9 +40,9 @@ function member_list(dai){
 	    num = 12;
 	    break;
     	case 6:
-	    pass = ['arisu','gaku','kirio','kuin','janbo','syeru','sikibu','sunsuke','tokimori','don','nimo','nerieru','masamune','patora','ponii','riida']    
+	    pass = ['arisu','gaku','kirio','kuin','syeru','sikibu','jambo','sunsuke','tokimori','don','nimo','nerieru','hati','patora,'biri-,'ponii','masamune','riida']    
         default:
-            memb = [];
+            memb = ['有栖','楽','きりお','くいん','しぇる','しきぶ','ジャンボ','すんすけ','ときもり','ドン','ニモ','ねりえる','8','ぱとら','びりー','ぽにぃ','マサムネ','りーだぁ'];
             break;
     }
     for(let item of pass) {
