@@ -39,6 +39,8 @@ function member_list(dai){
             shozoku = 'th5';
 	    num = 12;
 	    break;
+    	case 6:
+	    pass = ['arisu','gaku','kirio','kuin','janbo','syeru','sikibu','sunsuke','tokimori','don','nimo','nerieru','masamune','patora','ponii','riida']    
         default:
             memb = [];
             break;
