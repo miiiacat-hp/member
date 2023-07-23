@@ -1,18 +1,18 @@
 @charset "UTF-8";
 /*メンバー一覧
 ----------------------------------------------*/
-#th1, #th2, #th3, #th4, #th5{
+#th1, #th2, #th3, #th4, #th5, #th6{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap:3px;
     margin-bottom: 50px;
 }
-#th1 p, #th2 p, #th3 p, #th4 p, #th5 p{
+#th1 p, #th2 p, #th3 p, #th4 p, #th5 p, #th6 p{
     padding-top: 20px;
     color: #432;
 }
-#th1 a:hover, #th2 a:hover, #th3 a:hover, #th4 a:hover, , #th5 a:hover{
+#th1 a:hover, #th2 a:hover, #th3 a:hover, #th4 a:hover, #th5 a:hover, #th6 a:hover{
     background-color: rgb(231, 230, 230);
     box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
 }
