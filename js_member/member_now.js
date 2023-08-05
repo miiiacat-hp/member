@@ -29,7 +29,7 @@ function member_list(dai){
             break;
         case 4:
             pass = ['itari','in','eme','ousama','ohana','oranju','kyameron','komati','jack','suichan','sebasu','soa','cha-ri-','teika','toluri','towako','shounagon','hisui','puteo','bejiyuki','pomumin','mani-','mamirin','marin','mimi','memehan','yo-guru','rimo-ne'];
-            name = ['ぃたりい','院','えめ','おうさま','オハナ','おらんジュ','キャメロン','こまち','ジャック','すいちゃん','セバス','そあ','チャーリー','ていか。','トゥリ','とわこ','なごん','ひすい','ぷて男','べじゆき','ぽむみん','まにー','まみりん','まりん','みみ','めめはん','よーぐる','りもーね',];
+            name = ['ぃたりい','院','えめ','おうさま','オハナ','おらんジュ','キャメロン','こまち','ジャック','すいちゃん','セバス','そあ','チャリ','ていか。','トゥリ','とわこ','なごん','ひすい','ぷて男','べじゆき','ぽむみん','まにー','まみりん','まりん','みみ','めめはん','よーぐる','りもーね',];
             shozoku = 'th4';
 	    num = 30;
 	    break;
