@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*メンバー一覧
 ----------------------------------------------*/
-.intro_contents p{
+.intro_contents{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
