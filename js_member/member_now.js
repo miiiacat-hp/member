@@ -47,7 +47,7 @@ function member_list(dai){
 	    break;
 	case 7:
 	    pass = ['asagi','atamin','orumu','komugi','koremitu','sion','sei','soreiyu','tuyu','pikorin','foron','beru','pomerin','ravin','rate','riri-','ruxuna','rein','rebekka','romi','romio'];    
-            name = ['あさぎ','あたみん','おるむ','こむぎ','文秀','詩音',犀犀
+            name = ['あさぎ','あたみん','おるむ','こむぎ','文秀','詩音','犀','ソレイユ','つゆ','ぴこりん','ふぉろん','べる','ぽめりん','らゔぃん','リリー','るぅな','れいん','レベッカ','ろみ','ろみお'];
 	default:
             break;
     }
