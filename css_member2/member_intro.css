@@ -1,18 +1,18 @@
 @charset "UTF-8";
 /*メンバー一覧
 ----------------------------------------------*/
-.intro_display p{
+.dai p{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap:3px;
     margin-bottom: 50px;
 }
-.intro_display p{
+.dai p{
     padding-top: 20px;
     color: #432;
 }
-.intro_display a:hover{
+.dai a:hover{
     background-color: rgb(231, 230, 230);
     box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
 }
